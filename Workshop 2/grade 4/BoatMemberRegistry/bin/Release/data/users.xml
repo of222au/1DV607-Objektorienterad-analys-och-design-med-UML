@@ -1,0 +1,1 @@
+<UserList xmlns="http://schemas.datacontract.org/2004/07/BoatMemberRegistry.Model" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Users><User><Name>admin</Name><Password>password</Password></User></Users></UserList>

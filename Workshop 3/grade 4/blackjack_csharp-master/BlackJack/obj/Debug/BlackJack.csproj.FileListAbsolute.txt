@@ -1,0 +1,14 @@
+C:\Users\Ola\Dropbox\Skoljobb - Webbprog\LP5\Objektorienterad analys och design med UML\Workshop 3\blackjack_csharp-master\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Ola\Dropbox\Skoljobb - Webbprog\LP5\Objektorienterad analys och design med UML\Workshop 3\blackjack_csharp-master\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Ola\Dropbox\Skoljobb - Webbprog\LP5\Objektorienterad analys och design med UML\Workshop 3\blackjack_csharp-master\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Ola\Dropbox\Skoljobb - Webbprog\LP5\Objektorienterad analys och design med UML\Workshop 3\blackjack_csharp-master\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\Ola\Dropbox\Skoljobb - Webbprog\LP5\Objektorienterad analys och design med UML\Workshop 3\blackjack_csharp-master\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+C:\Users\Ola\Dropbox\Skoljobb - Webbprog\LP5\Objektorienterad analys och design med UML\Workshop 3\blackjack_csharp-master - For grade 4\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Ola\Dropbox\Skoljobb - Webbprog\LP5\Objektorienterad analys och design med UML\Workshop 3\blackjack_csharp-master - For grade 4\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\Ola\Dropbox\Skoljobb - Webbprog\LP5\Objektorienterad analys och design med UML\Workshop 3\blackjack_csharp-master - For grade 4\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+C:\Users\Ola\Dropbox\Skoljobb - Webbprog\LP5\Objektorienterad analys och design med UML\Workshop 3\blackjack_csharp-master - For grade 4\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Ola\Dropbox\Skoljobb - Webbprog\LP5\Objektorienterad analys och design med UML\Workshop 3\blackjack_csharp-master - For grade 4\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Ola\Dropbox\Skoljobb - Webbprog\LP5\Objektorienterad analys och design med UML\Workshop 3\blackjack_csharp-master - For grade 4\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\Ola\Dropbox\Skoljobb - Webbprog\LP5\Objektorienterad analys och design med UML\Workshop 3\blackjack_csharp-master - For grade 4\BlackJack\obj\Debug\BlackJack.view.FormView.resources
+C:\Users\Ola\Dropbox\Skoljobb - Webbprog\LP5\Objektorienterad analys och design med UML\Workshop 3\blackjack_csharp-master - For grade 4\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.Cache
+C:\Users\Ola\Dropbox\Skoljobb - Webbprog\LP5\Objektorienterad analys och design med UML\Workshop 3\blackjack_csharp-master - For grade 4\BlackJack\obj\Debug\BlackJack.view.UserControlPlayerCard.resources
